@@ -7,15 +7,8 @@ chords:
 ---
     
     
-    l
-    l
-    l
-    l
-    l
-    l
-    l
-    l
-    l
+   placeholder
+   placeholder
     
 c1: Gdim
 l1: eyoo
