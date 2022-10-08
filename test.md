@@ -1,5 +1,3 @@
-Hello Hello
-
 ---
 chords:
   Gdim:
